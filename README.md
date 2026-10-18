@@ -8,7 +8,7 @@ Related fields: Mathematics, Communication, Computer Science, Artificial Intelli
 
 Education background: PhD - Beijing University of Posts and Telecommunications - Electronic Science and Technology, Visiting PhD - Universitat Politècnica de Catalunya - Network and Telecommunications Systems
 
-Work experience: Internship (First Class Technology Artificial Intelligence, Nanhu Research Institute Fiber Optic Communication, Nokia Wireless Communication) Since joining a satellite communication unit
+Work experience: Internship (OneFlow Artificial Intelligence, Nanhu Research Institute Fiber Optic Communication, Nokia Wireless Communication) Since joining a satellite communication enterprise
 
 Qualification certificates: System Architect, Network Planner, Embedded System Engineer; Patent Agent Qualification Certificate, Legal Professional Qualification Certificate
 
