@@ -8,9 +8,9 @@ Related fields: Mathematics, Communication, Computer Science, Artificial Intelli
 
 Education background: PhD - Beijing University of Posts and Telecommunications - Electronic Science and Technology, Visiting PhD - Universitat Politècnica de Catalunya - Network and Telecommunications Systems
 
-Work experience: Internship (OneFlow Artificial Intelligence, Nanhu Research Institute Fiber Optic Communication, Nokia Wireless Communication) Since joining a satellite communication enterprise
+Work experience: Internship (OneFlow Artificial Intelligence, Nanhu Research Institute Fiber Optic Communication, Nokia Wireless Communication, Aerospace Research Institute Satellite Communications)
 
-Qualification certificates: System Architect, Network Planner, Embedded System Engineer; Patent Agent Qualification Certificate, Legal Professional Qualification Certificate
+Qualification certificates: System Architect, Network Planner, Embedded System Engineer; Patent Agent Qualification Certificate, Certified Public Accountant of China
 
 ## 大家好 👋 我是一名光通信从业者
 
@@ -22,9 +22,9 @@ Qualification certificates: System Architect, Network Planner, Embedded System E
 
 教育背景：北京邮电大学-电子科学与技术-博士，加泰罗尼亚理工大学-网络与电信系统-访博
 
-工作履历：实习(一流科技人工智能 南湖研究院光纤通信 诺基亚无线通信) 入职卫星通信单位至今
+工作履历：实习(一流科技人工智能 南湖研究院光纤通信 诺基亚无线通信 航天研究院卫星通信)
 
-资格证书：系统架构设计师、网络规划设计师、嵌入式系统工程师；专利代理师资格证、法律职业资格证
+资格证书：系统架构设计师、网络规划设计师、嵌入式系统工程师；专利代理师资格证、中国注册会计师
 <!--
 **curlyoung/curlyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
