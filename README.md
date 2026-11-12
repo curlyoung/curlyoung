@@ -8,7 +8,7 @@ Related fields: Mathematics, Communication, Computer Science, Artificial Intelli
 
 Education background: Beijing University of Posts and Telecommunications - Electronic Science and Technology, Universitat Politècnica de Catalunya - Network and Telecommunications Systems
 
-Work experience: A leading AI enterprise; Internship (OneFlow Artificial Intelligence, Nanhu Research Institute Fiber Optic Communication, Nokia Wireless Communication, Aerospace Research Institute Satellite Communications)
+Work experience: A leading AI enterprise; Internship (OneFlow Artificial Intelligence, Nokia Wireless Communication, Nanhu Research Institute Fiber Optic Communication, Aerospace Research Institute Satellite Communications)
 
 Qualification certificates: System Architect, Network Planner, Embedded System Engineer; Patent Agent Qualification Certificate, Certified Public Accountant of China
 
@@ -22,7 +22,7 @@ Qualification certificates: System Architect, Network Planner, Embedded System E
 
 教育背景：北京邮电大学-电子科学与技术，加泰罗尼亚理工大学-网络与电信系统
 
-工作履历：某头部AI企业；实习(一流科技人工智能 南湖研究院光纤通信 诺基亚无线通信 航天研究院卫星通信)
+工作履历：某头部AI企业；实习(一流科技人工智能 诺基亚无线通信 南湖研究院光纤通信 航天研究院卫星通信)
 
 资格证书：系统架构设计师、网络规划设计师、嵌入式系统工程师；专利代理师资格证、中国注册会计师
 <!--
