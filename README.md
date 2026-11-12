@@ -10,7 +10,7 @@ Education background: Beijing University of Posts and Telecommunications - Elect
 
 Work experience: A leading AI enterprise; Internship (OneFlow Artificial Intelligence, Nokia Wireless Communication, Nanhu Research Institute Fiber Optic Communication, Aerospace Research Institute Satellite Communications)
 
-Qualification certificates: System Architect, Network Planner, Embedded System Engineer; Patent Agent Qualification Certificate, Certified Public Accountant of China
+Qualification certificates: System Architect, Network Planner, Embedded System Engineer; Patent Agent Qualification Certificate, Legal professional qualification certificate, Certified Public Accountant of China
 
 ## 大家好 👋 我是一名AI从业者
 
@@ -24,7 +24,7 @@ Qualification certificates: System Architect, Network Planner, Embedded System E
 
 工作履历：某头部AI企业；实习(一流科技人工智能 诺基亚无线通信 南湖研究院光纤通信 航天研究院卫星通信)
 
-资格证书：系统架构设计师、网络规划设计师、嵌入式系统工程师；专利代理师资格证、中国注册会计师
+资格证书：系统架构设计师、网络规划设计师、嵌入式系统工程师；专利代理师资格证、法律职业资格证、中国注册会计师
 <!--
 **curlyoung/curlyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
