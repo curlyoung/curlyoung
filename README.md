@@ -12,7 +12,7 @@ Work experience: A leading AI enterprise; Internship (OneFlow Artificial Intelli
 
 Qualification certificates: System Architect, Network Planner, Embedded System Engineer; Patent Agent Qualification Certificate, Certified Public Accountant of China
 
-## 大家好 👋 我是一名人工智能从业者
+## 大家好 👋 我是一名AI从业者
 
 作者：科利杨curlyoung
 
